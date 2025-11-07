@@ -5,8 +5,11 @@ https://github.com/StefanPapp/investing-for-programmers
 Chapter01
 The analytical investor
 
+Chapter02
+Investment Essentials
 
-
+Industry classification
+https://www.spglobal.com/spdji/en/landing/topic/gics/
 
 
 
