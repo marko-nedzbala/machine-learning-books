@@ -1,0 +1,120 @@
+
+
+https://github.com/StefanPapp/investing-for-programmers
+
+Chapter01
+The analytical investor
+
+Chapter02
+Investment Essentials
+
+A list of full ratios
+https://fullratio.com/terms
+
+Graphs on Finviz
+www.finviz.com
+
+
+
+Chapter03
+Collecting data
+
+logarithmic returns differ in that they measure the continuous compounded rate of returns, more beneficial for statistical analysis
+
+Annual reports
+https://www.sec.gov/
+
+Annual reports Canada
+https://www.sedarplus.ca/home/
+
+OpenBB Library
+https://docs.openbb.co/
+
+https://pypi.org/project/openbb/
+
+Alternatives for collecting data
+https://github.com/wilsonfreitas/awesome-quant
+
+
+
+Chapter04
+Growth portfolios
+
+An investment thesis is a researched theory about a stock's predicted performance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

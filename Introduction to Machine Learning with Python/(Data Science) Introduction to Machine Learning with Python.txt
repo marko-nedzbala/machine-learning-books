@@ -1,0 +1,105 @@
+https://web.stanford.edu/~hastie/ElemStatLearn//
+
+https://github.com/amueller/introduction_to_ml_with_python
+
+
+Chapter01
+Supervised learning: algorithms that automate decision-making processes by generalizing from known examples. The user provides the algorithm with pairs of inputs and desired outputs and the algorithm finds a way to produce the desired output with the given input. Supervised learning problem is able to create a dataset that includes the desired outcome --> machine learning will likely be able to solve the problem
+
+Unsupervised algorithms: only the input data is known and no known output data is given to the algorithm
+
+No machine learning algorithm will be able to make a prediction on data for which it has no information
+You have to know your data before using the algorithm
+
+Libraries
+scikit-learn
+scipy.sparse: provides sparse matrices are used whenever we want to store a 2D array that contains mostly zeros
+mglearn: utility functions written for the book
+
+Software versions
+import sys
+import pandas as pd
+import matplotlib
+impot numpy as np
+import scipy as sp
+import IPython
+import sklearn
+
+Bunch object: very similar to a dictionary, contains keys and values
+
+samples: individual items
+features: the properties of the individual items (samples)
+
+generalize: whether it will also perform well on a new data
+
+training data (training set): the part of the data used to build the machine learning model
+test data (test set, hold-set): the rest of the data will be used to assess how well the model works
+train_test_split() 75% of the data as the training data, and 25% as the test set
+
+pair_plot: looks at all possible pairs of features
+
+k-nearest neighbors classifier: consists of storing the training set. Makes a prediction for a new data point, the algorithm finds the point in the training set that is closest to the new point, then assigns the label of this training point to the new data point
+
+scikit-learn implements machine learning models in their own classes, called Estimator clsses. Always expects two-dimensional arrays for the data
+X is data
+y are labels
+
+Classification problem: predict several options
+Classes: possible outputs
+Label: desired output for a single data point
+
+
+
+Chapter02
+Supervised Learning
+
+We use supervised learning whenever we want to predict a certain outcome from a given input and we have examples of input/output pairs. We build a machine learning model from input/output pairs, which comprise our training set.
+
+Two types of supervised machine learning problems:
+1.) Classification: the goal is to predict a class label, a choice from a predefine list of possibilities
+	a.) Binary classification: distinguish between exactly 2 classes
+	b.) Multiclass classification: the classification between more than two classes
+2.) Regression: a predict a continuous number, a float. Amount the predicted value
+
+Generalize: if a model is able to make accurate predictions on unseen data, it can generalize from the training set to the test set.
+
+Overfitting: building a model that is too complex for the amount of information we have
+Underfitting: choosing too simple a model
+
+Supervised Machine Learning Algorithms
+low-dimensional datasets: data with few features
+high-dimensional datasets: data with many features
+
+many datasets are stored as Bunch objects, they behave like dictionaries
+
+k-Nearest Neighbors (k-NN)
+maybe the simplest machine learning algorithm. Building the model consists only of storing the training dataset. Makes a prediction for a new data point by finding the closest data points in the training dataset
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
