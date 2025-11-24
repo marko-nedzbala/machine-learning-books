@@ -8,6 +8,7 @@ The analytical investor
 Chapter02
 Investment Essentials
 
+<<<<<<< HEAD
 A list of full ratios
 https://fullratio.com/terms
 
@@ -41,6 +42,30 @@ Chapter04
 Growth portfolios
 
 An investment thesis is a researched theory about a stock's predicted performance
+=======
+Industry classification
+https://www.spglobal.com/spdji/en/landing/topic/gics/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 396c3c1dd77c904e282da0fe2eb1884b7717fe79
 
 
 
